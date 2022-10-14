@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.text{
+    color: white;
+}
+
+.voiture{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    
+}
+
+.stats{
+    height: 90px;
+    width: 750px;
+}
+
+.bouton{
+    color: white;
+    border-radius: white;
+    background-color: transparent;
+}
